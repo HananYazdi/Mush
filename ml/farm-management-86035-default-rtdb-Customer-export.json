@@ -1,0 +1,142 @@
+{
+  "-OHliFD5x-i2MmYJJATG": {
+    "Address": "Street 1, City 4",
+    "Email": "customer1@example.com",
+    "ID": 1,
+    "Name": "Customer_1",
+    "Phone": "0578520162"
+  },
+  "-OHliFGv4Kopeec1xIKN": {
+    "Address": "Street 2, City 7",
+    "Email": "customer2@example.com",
+    "ID": 2,
+    "Name": "Customer_2",
+    "Phone": "0577954327"
+  },
+  "-OHliFJo9mZu2grAxTFo": {
+    "Address": "Street 3, City 4",
+    "Email": "customer3@example.com",
+    "ID": 3,
+    "Name": "Customer_3",
+    "Phone": "0560630127"
+  },
+  "-OHliFMxAy8eaaN2a2Am": {
+    "Address": "Street 4, City 4",
+    "Email": "customer4@example.com",
+    "ID": 4,
+    "Name": "Customer_4",
+    "Phone": "0572263443"
+  },
+  "-OHliFQPrD7NgNLq0wj5": {
+    "Address": "Street 5, City 2",
+    "Email": "customer5@example.com",
+    "ID": 5,
+    "Name": "Customer_5",
+    "Phone": "0549473850"
+  },
+  "-OHliFTMP8yfUY4Qsmk4": {
+    "Address": "Street 6, City 4",
+    "Email": "customer6@example.com",
+    "ID": 6,
+    "Name": "Customer_6",
+    "Phone": "0584747760"
+  },
+  "-OHliFWBSvk8ZE3v_D4F": {
+    "Address": "Street 7, City 1",
+    "Email": "customer7@example.com",
+    "ID": 7,
+    "Name": "Customer_7",
+    "Phone": "0592812877"
+  },
+  "-OHliFYwkOB1SBdEQjaX": {
+    "Address": "Street 8, City 2",
+    "Email": "customer8@example.com",
+    "ID": 8,
+    "Name": "Customer_8",
+    "Phone": "0577003722"
+  },
+  "-OHliFc67cMFeoxnT8tf": {
+    "Address": "Street 9, City 1",
+    "Email": "customer9@example.com",
+    "ID": 9,
+    "Name": "Customer_9",
+    "Phone": "0579739539"
+  },
+  "-OHliFf2FZxJA9fFNmFP": {
+    "Address": "Street 10, City 4",
+    "Email": "customer10@example.com",
+    "ID": 10,
+    "Name": "Customer_10",
+    "Phone": "0546741841"
+  },
+  "-OHliFicg7--xNVtODYr": {
+    "Address": "Street 11, City 8",
+    "Email": "customer11@example.com",
+    "ID": 11,
+    "Name": "Customer_11",
+    "Phone": "0518000916"
+  },
+  "-OHliFljNmnV3oF3ZoR9": {
+    "Address": "Street 12, City 9",
+    "Email": "customer12@example.com",
+    "ID": 12,
+    "Name": "Customer_12",
+    "Phone": "0544487286"
+  },
+  "-OHliFoPd-iFfqKLhT5I": {
+    "Address": "Street 13, City 1",
+    "Email": "customer13@example.com",
+    "ID": 13,
+    "Name": "Customer_13",
+    "Phone": "0517424600"
+  },
+  "-OHliFr9fIapGtBL7S-R": {
+    "Address": "Street 14, City 9",
+    "Email": "customer14@example.com",
+    "ID": 14,
+    "Name": "Customer_14",
+    "Phone": "0579822539"
+  },
+  "-OHliFts-G32lM50AtRX": {
+    "Address": "Street 15, City 8",
+    "Email": "customer15@example.com",
+    "ID": 15,
+    "Name": "Customer_15",
+    "Phone": "0559562335"
+  },
+  "-OHliFyN8KXSP-hs2Gj5": {
+    "Address": "Street 16, City 10",
+    "Email": "customer16@example.com",
+    "ID": 16,
+    "Name": "Customer_16",
+    "Phone": "0599865288"
+  },
+  "-OHliG1roZDhNR8jSZWP": {
+    "Address": "Street 17, City 9",
+    "Email": "customer17@example.com",
+    "ID": 17,
+    "Name": "Customer_17",
+    "Phone": "0541963159"
+  },
+  "-OHliG5bPi0EV5iVItMn": {
+    "Address": "Street 18, City 8",
+    "Email": "customer18@example.com",
+    "ID": 18,
+    "Name": "Customer_18",
+    "Phone": "0575842154"
+  },
+  "-OHliG8LBG4sXyL1maPS": {
+    "Address": "Street 19, City 3",
+    "Email": "customer19@example.com",
+    "ID": 19,
+    "Name": "Customer_19",
+    "Phone": "0520221721"
+  },
+  "-OHliGB02q_KJKod6AsV": {
+    "Address": "Street 20, City 2",
+    "Email": "customer20@example.com",
+    "ID": 20,
+    "Name": "Customer_20",
+    "Phone": "0523077173"
+  }
+}

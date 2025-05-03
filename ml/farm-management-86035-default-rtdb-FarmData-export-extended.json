@@ -1,0 +1,7762 @@
+{
+  "-OHhtYn4y2FTXnu0wT9D": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHhtYokqXvPwbaYLpKa": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHhtYqIUmRb7-w2f8kG": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtYryul6yy_gvQZ7d": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtYt_9Mq75HVlcZKM": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHhtYv7hfCobETlVWpn": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHhtYwh3Tb0kHHA12s8": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtYyJX3TklYlwnrP2": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtYzv-nEkAgGgYmEz": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZ0fiLfMqQSoGMKL": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZ2Ds8WEp_kuuJFF": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZ3oH1ItHsGbmbDL": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHhtZ5KZwWi07jqANv4": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZ6uZn9y2GuW6RwU": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZ8tEHB_O2qMjC9v": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZAXrsCiAwBSrooV": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZCR1gum0NYlbXkL": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHhtZEDcXeshBXmFCBE": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZFygraRj1pENwu3": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZIIXIWrJMqzuiVf": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhtZJuTGds0DRBG2Vc": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKaWYNz0UA7KP8uH": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHhuKc8ZJr6P-i-ROOi": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHhuKdYnKrt5qJaAANp": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKf2H_yALaeId7vR": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKg_OFPOdUp7Nyqm": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHhuKi6CDtZ4ezeY7EV": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHhuKjcV0C7nu6azNh_": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKl9_6m2gpIRqOhx": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKmdG09_pq1mqJJo": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKo9sFCl3jTCVEgb": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKpd8226a990TyPO": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKrJuJjR7uRjD5Iv": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHhuKsmz1AAVXtaEEGT": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKwQuw7aUIRMPJnd": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKxutnZWSIecBmtC": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuKzRamN-dVVO7WtZ": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuL-yNLsBBKMpPySe": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHhuL1SuQpDs26dCWEt": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuL3_oxR_KDvU3Hsm": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuL53HjRffmC2BOJb": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHhuL6ajj-ZkG2UtHsN": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2TdM_IZrl8dbvZ7G": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi2TeuGJeI70j7oKCr": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi2TgQWOfxGPpahvye": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2ThxM9Y0BPEwJea2": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2Tjalxy430xxq4qt": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi2Tl4VLzwOZlS1Zgq": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi2TmbMQ2VFjEWs1SC": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2ToEQ-bslP_gMF1q": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2TqK1CB94Uq6An8p": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2TrmQFjI6gyYgGBq": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2TtFu0GowHcohSa2": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2Tujaub_qKsQet2j": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi2TwH9CRyfQdtnrTT": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2TxnFwar4J8AA1v9": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2TzRekmo-62FaCwS": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2U-uyIFmuhtvBkqP": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2U1UFAtJRTDDuYzo": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi2U312S2-tI2esm-F": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2U4UfbQJ1SausrYO": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2U5yJxmzamaBbADk": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2U7Ti_W9m-WNaSex": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XGf-zsqgO6YUtrE": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi2XI9ydVE1iS5wjfR": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi2XJiJqJwqtJkRnh9": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XLAiFlS6QoxJK0E": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XMfD91CEV_amOhU": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi2XOBmIUmXeJMpH09": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi2XPdPxh9n-PS0OvI": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XR4tZ7TlaP7oI4S": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XSwJNyMnuZ3CKjn": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XUSb_a22wnD4z9j": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XVyaExuM4U0uIon": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XXWkSXxe4GycRgA": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi2XYyaE914yGKJVqR": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2X_O5SwcUTLJpxz-": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XarnpojbuT7m3lj": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2XcR4f-hN27zVElI": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2Y8IN5cQ1kHxHSee": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi2Y9sMzmKIJpLYbYk": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2YBTHHVwhCawqGJd": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2YD3ifpcobhdPSas": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi2YEdfhh54yvbYCn4": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UT_WYgsyc1lWTCG": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4UVBpWpwp9bi852A": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4UWyXZ1fUCNiEHIU": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UYVEffR_3j6cGkB": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4U_2sC6wOBotp2o4": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4UabZ7871HlsRhxq": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi4UcJgCBqrban0Tq8": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4Ue3eeozeC_gDf8y": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UfZ3uYitbzVB2ec": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UhIOFSxs6x-u1aX": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UipdUArQY5D8V2E": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UkRVD5VbM_F-y00": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4UmSAuL17Cpkt1BH": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4Uo7HaaC7DgXTkXV": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4Upgg7ubxX8KPRZv": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UrFuwW9vt83eQvX": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UsnBDpqKjt-YAUe": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4UuQHvputbvJnq4D": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4Uvyfl1oV10DcJvi": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4UxUBDxMORDIGigt": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4Uz3P01SsUgpmuO4": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4V-c6TQZb_PXjHpE": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4V1E8kIR3_6QMhr6": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4V2lDSNRS0u7wlVe": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4V4Wnia-eGIuKyMG": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4V67ehd80h2tEzbQ": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4V7wvpyw4qsFDCox": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4V9d4CcyL5ZSHH4S": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VBElM1ofbiuqEg_": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4VCzFhHXJA0gWGjI": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi4VEVGZ78UrrwCHxa": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VG-a77BencUBrr5": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VHXDjyQV2It5jEO": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VJCdQuQVyXkidF6": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VKtb4l6Ujw7CUFz": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VMWTpttE5dfbhnW": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4VOE9eB3Zv2fC78B": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VPibLtRCjlepXD1": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VREGilySBVD1SFJ": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VSmkxIULDk1cHSv": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VUNphKpoddBFvGR": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4VVvYNATTY-quNQe": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VXjqTC0YFlkqWXM": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VZPyIy-yA-huInt": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4Va0MNySl5HtoyJm": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VbfZ09t-hdVhUy0": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VdFWSv3exMwFCxL": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VepmdfHRZKLfuvv": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VgTKaxne8-WSNhg": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4ViT1lNg5sOKExLS": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4Vk-koX3p4EgNe9z": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VlY0UYeZfvNeQNC": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4Vn2sIE1YCp9xvaF": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4Voc99cGDTlmCScp": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi4VqRkcEM9i5NcmcE": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VsB2Wa2JQGPptJ0": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VtojNg-2iz8s1rV": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4VvZyLfVwJYOZqFQ": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bOFssY-VZCP0uun": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4bPn4mXY46YR2srC": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4bRLJaAxkFPwKmcl": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bStXMVRPmTCyKOu": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bURMFe6DeJwG4QS": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4bVtNzJ_RQzw-1f6": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi4bXWmOVwmhzKTIDY": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bZ5RkR7oYH9zGfT": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4b_bKTKYmTbXd5XG": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bbAIQfY6DfZoViL": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bcowT-kDj2xEqj1": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4beP04JlvhcnrfLn": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4bfukWDDkycH1BlX": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bhUkz4f5rLCl68U": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bitL9Eoe8Wnbwla": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bkSmbu1GeR5xJoG": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4blzN40y8BNpsMid": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4bnoTjW7v2Vt_puZ": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bpFvVcfdDPIg3B8": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bqh98-D1Y4GlXDL": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bsDDSr3Ie-XU4Nx": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4btnSJ5U5HO-5Kt8": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bvFv1zaInO5ovwW": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4bwjjoP4o9atC_Gd": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4byBUYS6LqodQGER": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4c2sXOZR6uQ0KyMg": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4c4MKU6oD3OEC5zH": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4c5oZzW2VxDoLTOh": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4c7HwfCEXUHFOrJO": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4c8ngBkSPeHbpWY6": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi4cAFJHIqinU99kQP": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cBsrse4zd8vSQJz": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cDMHeQ3Ph3z0aRO": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cEpACGSwwjVTeSA": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cGOtmRMSf_4r8ne": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cHwihVNX_8wowWN": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4cJT2N1r-LtVElJy": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cL0PB16p-wh7WAt": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cMWWLBuq2mqYTcH": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cO2osfC1uNhnurp": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cPWy5WFnJjdigpZ": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4cR3OUewWzWL0jiy": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cSZZh2tVC-ksonb": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cUAXa_sDAq2zlHI": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cVfREVQHpBTLfJ_": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cXBKxN-OADDUhA9": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cYqoeoMx7TxUCR7": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4c_M2co3RZ4QqTzg": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cayy0SkcdzS5lA0": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4cc_hueI7ySn6Tej": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi4ce9CjEMqBrlqial": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cfXK-7nNB_WKx5q": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4ch0XRfrKOvL_SJ9": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi4ciXoV6FaUsxwoiw": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi4ck-7E3UUzvuKADL": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4clf-vlPch58OTGV": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4cnETzatB6tMWr_p": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi4col2N0JQW7xFHo3": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5A4OkZ1gCbIVeeQ4": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5A5z1F249rM620G6": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5A7YtZeKjavUkak9": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5A93X2_b-iLu5Mnw": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AAcMQcuskQuEFVo": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5AC8alYJbch50cdK": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi5ADhJPPGrQYAoBVn": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AFAoFN3CaM396WT": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AGlubAoj4WUTlyM": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AIGSnawLUi1GWkx": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AJj00IrTCCxIKYt": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5ALDh61u-jV7jcAd": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5AMiPPCUcnOFnpay": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AOIaVx22jqQW_oC": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5APom07hUbXhpTMC": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5ARMxuxvDeOwybxE": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5ASxLqhOQQzs2KJx": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5AUQziZB3mhpnRDb": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AVwTg6lMvx7oDlH": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AXULTo9ncgoGYYy": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AZ5qy1ZAPt5j_tB": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5A_XhAFgh8qatiGr": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5Ab3d0gc-57G5XTr": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AcZtS3cxWBhiN2F": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5Ae1j2tuSFZSQf1r": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5AfZlvM4aieuaOCa": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5Ah5zVyyOpZp4fp-": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AidUHJBp_AI53aO": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5Ak60028h02pZhyD": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5AlZdDtUDLAy83Y2": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi5An0-nfl5CCQqOUO": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AoU-wHMQ3Ju8VxF": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5Aq0AoxlPxgL38wE": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5ArdlMwMkMcGBBoc": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AtNQMjwL5EPAnYK": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5Aut099QUlg7bqdL": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5AwMnveHfIexwavE": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5Axrf3_E2yOEx27L": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5AzM6YTqzXM-lFNS": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5B-tSu02p-VAWDo0": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5B1PSW-Wa9xRRdFh": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5B2sQV9HeQ2u8RQM": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5B4XRUr4WNvrgvjd": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5B65zvFaln0iQs1I": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5B7cfk1uS0SOJelJ": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5B9AZUwg2nqFh9Qu": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BAqNrle4jwaAYZu": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BCIl-bOahqcDBQ2": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BDskHOZMWqP2rAG": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5BFOy8q5tCQkWO01": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5BH1AwUuSSCcY-4U": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BIZf09pNuNfjqrY": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BK4vqZ0KKmcJGSC": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5BLXyBjHXksI4gv5": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi5BNZCcnDqoHGeJM1": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BP1KQc6WWnl4m5_": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BQXya8OzkDH4OBE": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5BS0GPls1FpEsc4u": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5x-s3MLgbcYJxoko": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5x1OtGr8evStyKY2": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5x2x4d44mVtutfb1": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5x4WW4yXHvPhtjEP": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5x5yMeN8mLCZP_pQ": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5x7Yhfr3gf3Kv7YU": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi5x98jIx-375yld6X": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xAjmjH2U9jDUu9J": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xCFZ0ZZ5r614QBc": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xDftByyeRQOOXIg": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xFD5clgg8BB3Z5P": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xGnTkqIdELhSiXz": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5xIQtgC9v7OERBDN": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xJslN4QzgkPakPO": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xLIgoBD87tbpRLg": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xMm2tbyHTOVVXWA": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xODiOGjwm5j53mH": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5xPre6VZPbFKy7_l": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xRMNXr6djcaL__Y": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xSxSaRPMDdBAYOD": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5xUV0wBfYvad1nKm": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5z-w2Vjl2l2sueaw": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5z1XZpjJU9q0EIz0": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5z325yUm6bCiSLzO": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5z4ZLgjJwVpRepLC": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5z6EJFalwlur8H_q": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5z7jXqT0qDzf_R0O": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi5z9EqbW0wqdOFc0H": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zAvnDGL9sECfLuD": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zD2aYH1-RyHL4jn": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zEWTdrKxx9XA4s1": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zGCrvjPe0-5QAFf": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zIQQHu2ARQUZflR": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5zKKKjTd1zuD0xHn": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zLtOtOl4ZrZepZS": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zNL_GFW0IW0WNev": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zOnnLV0e_avdw3O": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zQECKfl1K7ROsDQ": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5zRj4lLHcgeHMksv": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zTBHjZFoJJx5JQu": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zUg0nR3vfV0qWnn": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zWAx7bN5sRoO9oc": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zXcWx35rh6dPtvB": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zZHAcvMW3kDk4Xk": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5z_omMa02oc6tlR-": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zbLQB-lXzMQ-zH-": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5zcnQl9CRYZNkB0d": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5zeHiPZRmfidoBID": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zfkY5zhHhzcRcxT": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zhI6oeliGIXuIIX": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi5zilyPrWLzlSDIvO": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi5zkHFGAUDpprJ_uI": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zlnl4e6sVgyD4ex": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5znG9G6zUdFL8pm8": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zom3VVYvCgs6Adw": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zqO6AnHLDaWDjUS": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zrwa35f9Ur0So5z": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi5ztfDLS9dpq-QECW": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zv98lQN6kL4ClSG": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zwi6bdkrYVGHR77": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zyIQmKDw53mjv_e": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi5zzqQlnZJLmt1_Ku": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6-0MlnUQvBGsQ4vB": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-1pKIwNiVI81LZW": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-3IZda65CaRr8-B": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-4kwjDthbkwwTPe": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-6ExBRZan5zp9YS": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-7nPG8yPQ0JIBnf": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-9GAdrpJuHPjzQm": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-AlTnllgEwI8JLx": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6-CGwAMw_R_ovOaQ": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6-DkixvgYBwpXjTh": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-FDsaDBX1Eg82LV": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-GrfKhuw0iUq5Lf": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6-ITqybsOTNS09J3": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6-Jx11Fp7VNpRMBM": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-LR2cPfdobj19fj": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-N3HfiyrhGutO8M": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6-OXQuJiP3FK8Rfr": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Slvn0aQSEP88QET": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6SnVHeZasM2vKhwA": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6Soz8sAs0BZqVWg0": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6SqfrbZQ0XoHdoK0": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6SsDfWUOXeM9IuKd": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6StkzpsPIRl0l1Ig": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6SvH1OOENS-81iBQ": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6SwphmhG7Q_qojY_": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6SyPNexH6mUiGRUw": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6T-71K_el2rUIknN": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6T0ql7zHsBnn0RRu": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6T2YPZOqU1DFr-vq": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6T433NhYzWyZB58Z": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6T5WW8BOSiuKb0yP": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6T77qrsfHdkJ2R7g": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6T8a36tgu07v85wl": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6TA78NgBC5_qhxfb": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6TBlkSkpnih0q8DS": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6TDC5zzbid1nqmDu": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6TF4InKPMbcn4Quy": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6TG_q7Ng75LikhqM": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VQL-bN0D0pPFadp": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6VRqvZd8QgFJMMHQ": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6VTVYsOBKI6_YiQt": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VUyXFLZ5sKjlpaD": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VWXd6eZEmlu2V7K": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6VY0w_Hyd-kuvDLZ": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6VZXjEzYYNNCIgsx": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6V_z4B6H6VzRYkKx": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VbSTPSuXBj-sLxu": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VczgMV_Yzegtfew": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Vf8BEbFSTaiWHj4": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6ViUVC-zKQdF5LCk": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6Vk12YPC3rv6Aoiy": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VlWf_mie8ka1gHp": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Vn2yf_HEngnpNLT": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VoYOWEW-VgbrRTw": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Vq5j7fOECv2koY2": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6Vr_-sHiS0tBU6Px": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Vt3d40hBLtzhTJK": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VucK_V-DIMQUURK": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VwAKtshmBZnv-rD": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Vxe7Cc68gScLwCW": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6VzCEunNglH7rIs1": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6W-lzWWPNUcJEk2W": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6W1LJKKf0dXRxqzh": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6W2oyQ6Aslim7CDT": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6W4FFuA97ueYKjM8": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6W5x90_pl4ptYhjl": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6W7V6dNWONAeSVLN": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6W9BUqTIBl3GGEWm": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6WAhVKL-JuhDwE7n": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WCHV2tLgbvnSKmp": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WDrH4I0zen4LoV3": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WFM1SkvU-3PEERj": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WGm3zSjKFWFN2s2": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WIGaOVHmPpVJ8CR": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6WJmYKfkQRzOKRa5": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WLKMfJGDTtu1LDq": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WModbmYGDRIznXh": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WOSAuDVBMHW3t24": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WQ38RhXVVG2PPh_": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6WRd4FgIlNW97N-_": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WT8YFIhZwpkFqSv": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WUtzdxvhH1QHGpS": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WWT2z_rVvXGhrtZ": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WY7aXkqpR6sBqss": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WZeIrW-bgZ6A0MY": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Wa7DzgCHdJOX1v1": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WbhguCob1RA0HWB": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6WdFyabE9gttHfo7": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6Wexd_wXzeGr4DoZ": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WgRcLGIpplrskWh": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WhwCC24kY3JevHy": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6WjRi964rnqoblsG": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6WksHEebBs9KKCzL": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WmJypw4S_297JV1": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WnlchwENfrE7h_S": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6WpHdBjcf81W3jK2": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YayMYLJbE-V-IBU": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6YclgCryiSJ0SFxl": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6YeTbuKN_Szy86GA": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Yg5jNc5Rdbwo5Pf": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YhepStJ5dENKH5-": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6Yj8OhSDacO7Qc9b": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6YkhoEdoCkm3v_5b": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YmCN0RXs3hTfI9V": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YneczDNdeXZNfkB": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YpDGc_v4nAlPlVY": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YqgGeluPd4F-3qQ": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Ys4M5DpKwmopeOo": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6YtmuyWALyeC53fH": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YvK8Rz4_hb18URr": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YwqSoneNvFnCaLe": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YyM7ahfhH5LdtFl": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6YzksNMYz8tmsJnk": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6Z0Z6n4xhcgqYy5_": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Z22oUvX_I7uv0qE": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Z3S4ccLltmpj4wQ": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6Z4wmCuoSu11HjEJ": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_eXYgY_RWRJEHNu": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6_gDsY39GNmSTRCQ": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6_hlEm0SB78bzXCF": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_jDTcxY8230_LU5": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_kjDvVyd3GKBmYb": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6_mJJWGr5Cq5rz9o": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6_nuzlGnJdekBaKU": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_pRMynut519YrhR": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_r2_WZR9oJGn2sT": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_sYNdxJxp1QzfjL": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_u-Viz5cCX62JP2": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_vTHyzLqb-gAIVB": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6_wswkCk-4WSyvUc": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_yLfpmGeb_YKkU_": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6_zuJAg-n1CElfL8": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6a0MOARqCNZ--xSc": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6a1ry--Tosf00up7": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6a3QRT9K9AoLL6_9": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6a4xNXI3Xx0b4_dc": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6a6l7rmbnQBEHrUU": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6a8Bwjt4UTd2GYFc": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6a9dGp4GyRGTKp7z": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aB5A8hZN-zGe52P": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aCYXeieiqt2T0Vt": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aE21YuLUv5NrUvb": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6aFYr2j_M8Iwrzun": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6aH4Q1B3EWqeopUo": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aIr70ISWe15okra": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aKOZvQXJgZW89bd": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6aLqLtanxLir6XMb": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6aRBae8A4NhRSnsT": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aSeyOmPfrAsrv8o": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aU9MzILD1GMID_6": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aW2zG1LBu1izOlc": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aXcqggj05p_KofW": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aZ4zK1RSi7082-4": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6a_TLxPC7FGjPKeN": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aaxZuUbT4kuaek8": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6acV30ZgVz_t3r0A": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6advKjYFCWplBt09": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6afU_3UXSdlzariq": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6ah4r4w_oXVIw6GB": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6ai_uey59VrRHkSx": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6ak7Ta6hEHbI3WVd": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6algDTOBDjyeVh4E": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6an9r41pKL3kI7A7": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aodKox3rCF63okj": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aq9qCmrbeihBpgX": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6arbm4HQfyf46lHl": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6at5DA1yRY4nyptf": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6auaQthdbuHgl5o5": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6aw5-WJ6t4b2nbR0": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6axW4WJJNDhdOe-r": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6az2sXwVHRnHG59c": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6b-_wJEA5m7R71Cf": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6b15G6Px02Y6XUbZ": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6b2awVFY_spbxbW8": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6b44GZt7usvBoVGw": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6d3hblJ1OB63K76D": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6d5B0RrxqVG9a6XA": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6d6lrt7l_Pe_ADW5": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6d89m45KvVDAg852": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6d9YPR0ge9xYGiSl": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6dAxhaKgkbr0jBRq": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6dCNeb5raYYdLroD": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dDyPaUrVr03KAnZ": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dFPUmJFshI7k-yo": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dGtlJKQEXAGd1yf": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dIIfrUShnvAvgVM": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dJlSs3TAIBM2pGF": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6dLJNYzt60mGbVuV": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dMny2M5ghu6c8Y-": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dOKuLJUbSW9exct": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dPqDXccNBHmEMU1": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dRH3HvCSyq83Gi6": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6dSp9AaHW6hKNhwN": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dUQQZfGYdmDXXMS": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dVvxXj_u4fOBPeR": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6dXSXU7H-yuRAn_q": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fEgHR9rQt0X7HrI": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6fGLrPfJNKBX3afd": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6fHyEBicg2hzJw6a": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fJOcnamKV99zg1y": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fKtsqUtKijUm-6I": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6fMRim6z4gTOUZmX": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6fNyRwAhPaBTNLc7": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fPTzOBZYYDKg5mq": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fQuhQzDLgCOGd3g": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fSLG9yQVGRXQc-L": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fToQ9MVkSeCbpMF": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fVHKvQKZLpR7Iy8": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6fWm0oJgCORzrLLw": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fYHid4g8iCYjQ1w": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fZnJb6GDl6PKU3x": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6faLRY4U9q-Ob4uH": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fbxraqQpyNQn8Bk": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6fdVEZnlh9kef_88": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fezdW3_qIbS79z3": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fgXHGOhGZoTe-XQ": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fiDMv3GKhra9Eud": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fkDfWVoKV1kadyx": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fmC7y31BJpGJ0i3": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fnjl6F3eHBzA6nL": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fp7yrwTo3SpoesW": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6fqZPcdQPBLfNj4F": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6fs4RZfnBBqx_-Ah": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6ftard6Yga9VXLbm": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fv7eKyuJghG_dff": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6fwcmcP9vm0WHiyH": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6fy5sJHJbG_EW3sh": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6fzeD2a3wYiSFv5Z": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6g05KmYGuATFnT78": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6g1_hd63yWP93Hwi": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6g31SfQSFhg99l7y": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6g4Tf2WRsBJj6Sx0": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6g6-4WbSQn1a9kyH": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6g7d1j9GG6SWSM7f": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6g98eLoAka99WM9y": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gA_pgrej6BzBug4": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gC4CYHpxaQxNF0w": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6gDa_G0ugFwxJL0d": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gF4yMMFzjY6TZjh": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gGgvunTLFlPaV5B": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gICNOqn5fOdCWn9": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gJgHCbC42RhjgIg": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gL2dc6pLwbImBvj": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gMX-KGbnjgfztJg": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gO0Q5_QbG69B6iq": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6gPUl3xkvLSoEkrf": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6gQzNqVa-WAuQekP": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gWdpEJ6mKK6dPW7": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gY7ay-k8ZDjuylj": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6gZnDeArk88OB94l": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6gaGh-j6zk2rIrRN": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gbnxVh79SNh0nu5": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gdICKKLm6T1cqh8": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6gepMPHGX0-3td8Y": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6i6k5kB3obuXWB5N": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6i8CunAiWYSly9c8": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6i9gdn_vWJ53tz8W": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iB5jNQoUrhVb4Jz": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iC_lV1fbrygG7bk": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6iE9WDIe7rFvAssL": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6iFf154b_5xrMJQw": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iH32Fhn0_3iUKLr": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iI_ew3Ue8TRhVkg": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iK0tnVbmVvd0nZ_": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iLVutZhHmbfYCW1": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iN1RXgyw9F4b8uL": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6iOS39Fic1pOrr2s": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iQ-6zYEQM-su6Lw": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iRVI5wT5aaWRiVf": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iSybGlNcnNWVJBj": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iUV4ImBYezPTNFc": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6iW0e_b2Pm0EPsqf": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iXZjPgRgDJsjky7": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6iZ89Lbtlxk6nyIl": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6i_k66qGZ7radno5": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6jwDMm6yZDdwuuz2": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 1,
+    "Room_number": 4,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6jxuya1YGK0WCZzS": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 2,
+    "Room_number": 5,
+    "Start_date": "2024-06-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6jzVqjir6IXV4Lvt": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 3,
+    "Room_number": 4,
+    "Start_date": "2024-05-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6k02kc9mJNRbBaJa": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 4,
+    "Room_number": 5,
+    "Start_date": "2024-05-11 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6k1agcCzditUB0cr": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 5,
+    "Room_number": 4,
+    "Start_date": "2024-04-30 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6k382N9nUFNcxM80": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 6,
+    "Room_number": 5,
+    "Start_date": "2024-04-24 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6k4c2hvetGpWQO67": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 7,
+    "Room_number": 5,
+    "Start_date": "2024-04-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6k6QH4ZytijtcLfQ": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 8,
+    "Room_number": 3,
+    "Start_date": "2024-03-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6k7qY_OINxEEvT5K": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 9,
+    "Room_number": 4,
+    "Start_date": "2024-03-18 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6k9Lr6Y8sOm5kWSu": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 10,
+    "Room_number": 5,
+    "Start_date": "2024-02-26 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kAid1R-pnmJnMAs": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 11,
+    "Room_number": 3,
+    "Start_date": "2024-02-21 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kC8wf_EUVtXu-5V": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 12,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6kDfM58FwT5GbHSj": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 13,
+    "Room_number": 4,
+    "Start_date": "2024-02-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kFCmbuisRUkA2fM": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 14,
+    "Room_number": 3,
+    "Start_date": "2024-01-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kGhratDcHNNpmDu": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 15,
+    "Room_number": 3,
+    "Start_date": "2024-01-16 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kIHF4XlBqvDIUcM": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 16,
+    "Room_number": 5,
+    "Start_date": "2021-01-06 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kJmiAo1-90-eIA_": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 17,
+    "Room_number": 4,
+    "Start_date": "2023-12-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6kLIRVdAGH1tiOjj": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 18,
+    "Room_number": 4,
+    "Start_date": "2023-12-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kMohMgoJ2W6pICZ": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 19,
+    "Room_number": 3,
+    "Start_date": "2023-12-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kOLllx7G4q9bSjh": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 20,
+    "Room_number": 5,
+    "Start_date": "2023-11-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kPo4sbJo-OR8-zr": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 21,
+    "Room_number": 4,
+    "Start_date": "2023-11-23 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kRK9UgcEPvc-7XW": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 22,
+    "Room_number": 4,
+    "Start_date": "2024-06-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kTFUDSyTrYU3p1K": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 23,
+    "Room_number": 3,
+    "Start_date": "2024-06-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kUiBjqcH6EblAT8": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 24,
+    "Room_number": 5,
+    "Start_date": "2024-06-17 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kWEGH1QhfJxQmsT": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 25,
+    "Room_number": 4,
+    "Start_date": "2024-07-12 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6kXc08pQpjULEvzf": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 26,
+    "Room_number": 5,
+    "Start_date": "2024-07-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6kZ8hS-pG_d7H9V5": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 27,
+    "Room_number": 4,
+    "Start_date": "2024-06-19 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6k_iv-VBXVDGndOD": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 28,
+    "Room_number": 5,
+    "Start_date": "2024-06-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kb9mDXUDgtpKxuz": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 29,
+    "Room_number": 4,
+    "Start_date": "2024-06-05 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6kcaeBwWwmlaNftI": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 30,
+    "Room_number": 5,
+    "Start_date": "2024-05-25 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6ke5pnQKR0TvF_vs": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 31,
+    "Room_number": 5,
+    "Start_date": "2024-05-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kfZ9aw3g2uooul_": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 32,
+    "Room_number": 3,
+    "Start_date": "2024-04-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kh2OoSkUL2owLMX": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 33,
+    "Room_number": 4,
+    "Start_date": "2024-04-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kiVBQEHfEFnUsFV": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 34,
+    "Room_number": 5,
+    "Start_date": "2024-04-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kjw-7H0iWk5qesT": {
+    "Iteration_ID": 14,
+    "MAHZOR_ID": 35,
+    "Room_number": 3,
+    "Start_date": "2024-03-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6klLiM-QoQOJK97e": {
+    "Iteration_ID": 13,
+    "MAHZOR_ID": 36,
+    "Room_number": 4,
+    "Start_date": "2024-03-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6kmrFwdjO3jDXMtE": {
+    "Iteration_ID": 12,
+    "MAHZOR_ID": 37,
+    "Room_number": 4,
+    "Start_date": "2024-03-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6koHHvGR_pvSaQSP": {
+    "Iteration_ID": 11,
+    "MAHZOR_ID": 38,
+    "Room_number": 3,
+    "Start_date": "2024-02-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kpj5rPeZhxhrYVj": {
+    "Iteration_ID": 10,
+    "MAHZOR_ID": 39,
+    "Room_number": 3,
+    "Start_date": "2024-02-15 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6krOS57R9MuVe6XT": {
+    "Iteration_ID": 9,
+    "MAHZOR_ID": 40,
+    "Room_number": 5,
+    "Start_date": "2024-02-02 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kszbVGQ5dHbYPVq": {
+    "Iteration_ID": 8,
+    "MAHZOR_ID": 41,
+    "Room_number": 4,
+    "Start_date": "2024-01-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6kuSIQp7wbm9Iwjp": {
+    "Iteration_ID": 7,
+    "MAHZOR_ID": 42,
+    "Room_number": 4,
+    "Start_date": "2024-01-14 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kw1NNCdJqAR3zY_": {
+    "Iteration_ID": 6,
+    "MAHZOR_ID": 43,
+    "Room_number": 3,
+    "Start_date": "2024-01-08 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kxdEfqb9FGHKPgq": {
+    "Iteration_ID": 5,
+    "MAHZOR_ID": 44,
+    "Room_number": 5,
+    "Start_date": "2023-12-30 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6kz7utR2ST41YUrZ": {
+    "Iteration_ID": 4,
+    "MAHZOR_ID": 45,
+    "Room_number": 4,
+    "Start_date": "2023-12-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6l-aiQARSzvID0-q": {
+    "Iteration_ID": 3,
+    "MAHZOR_ID": 46,
+    "Room_number": 3,
+    "Start_date": "2023-12-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6l1BH5so1yYscoHS": {
+    "Iteration_ID": 2,
+    "MAHZOR_ID": 47,
+    "Room_number": 4,
+    "Start_date": "2023-12-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6l2kNj52Rs8R-ClY": {
+    "Iteration_ID": 1,
+    "MAHZOR_ID": 48,
+    "Room_number": 5,
+    "Start_date": "2023-12-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6l4JzRwrWKsTuYJB": {
+    "Iteration_ID": 24,
+    "MAHZOR_ID": 49,
+    "Room_number": 4,
+    "Start_date": "2023-11-28 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6l5qrB0m3S7Po1kP": {
+    "Iteration_ID": 23,
+    "MAHZOR_ID": 50,
+    "Room_number": 5,
+    "Start_date": "2023-11-10 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-OHi6l7LDvbBgDA9redh": {
+    "Iteration_ID": 22,
+    "MAHZOR_ID": 51,
+    "Room_number": 4,
+    "Start_date": "2023-11-01 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6l8kSRyXQ_CFy7wY": {
+    "Iteration_ID": 21,
+    "MAHZOR_ID": 52,
+    "Room_number": 5,
+    "Start_date": "2023-10-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6lAAyxHZ-lVLQzP5": {
+    "Iteration_ID": 20,
+    "MAHZOR_ID": 53,
+    "Room_number": 4,
+    "Start_date": "2023-10-15 00:00:00",
+    "Substrate": 160,
+    "mushroom_type": 1
+  },
+  "-OHi6lBdmwblkk9pD0pO": {
+    "Iteration_ID": 19,
+    "MAHZOR_ID": 54,
+    "Room_number": 5,
+    "Start_date": "2023-10-05 00:00:00",
+    "Substrate": 80,
+    "mushroom_type": 1
+  },
+  "-OHi6lDBMNKJ188n11yg": {
+    "Iteration_ID": 18,
+    "MAHZOR_ID": 55,
+    "Room_number": 5,
+    "Start_date": "2023-09-25 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6lEhv4qqa3hk70Eo": {
+    "Iteration_ID": 17,
+    "MAHZOR_ID": 56,
+    "Room_number": 3,
+    "Start_date": "2023-09-10 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6lGAIQ0Hp5BGSM7w": {
+    "Iteration_ID": 16,
+    "MAHZOR_ID": 57,
+    "Room_number": 4,
+    "Start_date": "2023-09-05 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi6lHiG1ui7VPK8bx3": {
+    "Iteration_ID": 15,
+    "MAHZOR_ID": 58,
+    "Room_number": 5,
+    "Start_date": "2023-08-20 00:00:00",
+    "Substrate": 240,
+    "mushroom_type": 1
+  },
+  "-OHi7g-rzZ5kMcsTr-o9": {
+    "Timestamp index": 1,
+    "category": "mobile",
+    "country": "Japan",
+    "event_date": 20220108,
+    "event_name": "first_open",
+    "platform": "iOS",
+    "user_id": "000496A7BCF847F3A11465E74AFF5A1C"
+  },
+  "-OHi7g1Q-8m-vWWiFle5": {
+    "Timestamp index": 1,
+    "category": "mobile",
+    "country": "United States",
+    "event_date": 20220110,
+    "event_name": "first_open",
+    "platform": "iOS",
+    "user_id": "0009B4BCFBF04C7A85FC3D0C7CE159DF"
+  },
+  "-OHi7g3-5KkxFKafTq9I": {
+    "Timestamp index": 1,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220104,
+    "event_name": "first_open",
+    "platform": "Android",
+    "user_id": "00102B0CA5E84059A0B0408516CE59A0"
+  },
+  "-OHi7g4_DpXVN3QbbeEu": {
+    "Timestamp index": 2,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220104,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "00102B0CA5E84059A0B0408516CE59A0"
+  },
+  "-OHi7g66yU8TcQY2mdog": {
+    "Timestamp index": 3,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220104,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "00102B0CA5E84059A0B0408516CE59A0"
+  },
+  "-OHi7g7gCVFR8wYzPql7": {
+    "Timestamp index": 4,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220104,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "00102B0CA5E84059A0B0408516CE59A0"
+  },
+  "-OHi7g9EZwxVzRswis5m": {
+    "Timestamp index": 5,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220104,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "00102B0CA5E84059A0B0408516CE59A0"
+  },
+  "-OHi7gAh1Rga3bJNVQnQ": {
+    "Timestamp index": 6,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220104,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "00102B0CA5E84059A0B0408516CE59A0"
+  },
+  "-OHi7gC9MQcJXAVGkqQ4": {
+    "Timestamp index": 7,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220104,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "00102B0CA5E84059A0B0408516CE59A0"
+  },
+  "-OHi7gDrWsxg3KD-XB_V": {
+    "Timestamp index": 1,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220110,
+    "event_name": "first_open",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gFRShQ94V70b7OL": {
+    "Timestamp index": 1,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gGxy8A6U7c9VnuV": {
+    "Timestamp index": 2,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gITiYh8yliF5suQ": {
+    "Timestamp index": 3,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gK0Pk5yIrBvUlZy": {
+    "Timestamp index": 4,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gLXygKCdbpQGadS": {
+    "Timestamp index": 5,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gMzufUsYSv1YJa9": {
+    "Timestamp index": 6,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gOXwHMIZsumH6Ne": {
+    "Timestamp index": 7,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gPzmsnI3vdS3MZK": {
+    "Timestamp index": 8,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gRQDgh_7zgyypEX": {
+    "Timestamp index": 9,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gSt-1aC0r_a_Wrx": {
+    "Timestamp index": 10,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gUMwRiZqYGDmGuj": {
+    "Timestamp index": 11,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gW4MVg49YsLJBxK": {
+    "Timestamp index": 12,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gXdzuejm9jmahKc": {
+    "Timestamp index": 13,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gZ8ZV6RL-MPZbpO": {
+    "Timestamp index": 14,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7g_iV8_tQnAp_V1z": {
+    "Timestamp index": 15,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gbFM-uTq9V8-FH7": {
+    "Timestamp index": 16,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gchZJ_MUUDCxlcC": {
+    "Timestamp index": 17,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7geEHshVLAolhcOk": {
+    "Timestamp index": 18,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gflt43_M-1cUaRW": {
+    "Timestamp index": 19,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7ghNIWnk26iI9NH3": {
+    "Timestamp index": 20,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7giuk4EN9wRNOWF0": {
+    "Timestamp index": 21,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7glIP2pRfu6J-zdP": {
+    "Timestamp index": 22,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gmqS-KPQiwdqjQ_": {
+    "Timestamp index": 23,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7goLw3A3yNCryXEk": {
+    "Timestamp index": 24,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gppjw9oDk2q9qIy": {
+    "Timestamp index": 25,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7grK0KcGMyMf5yh-": {
+    "Timestamp index": 26,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gsoUHe-yvzpnUY4": {
+    "Timestamp index": 27,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7guK6Qry4UrSl0gC": {
+    "Timestamp index": 28,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gvuhde4AsmW82lH": {
+    "Timestamp index": 29,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gxRTRYUhNVCh13e": {
+    "Timestamp index": 30,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7gyv9O4F65Qdu4cd": {
+    "Timestamp index": 31,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7h-REPyseTaltHVj": {
+    "Timestamp index": 32,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7h0xx9YUInJHnmPd": {
+    "Timestamp index": 33,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7h2VtoNbtj3l_zUO": {
+    "Timestamp index": 34,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7h40kkrk4CL1iZCh": {
+    "Timestamp index": 35,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7h5UgRPZsDMNL7oB": {
+    "Timestamp index": 36,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7h70AEbZGxaL2sS8": {
+    "Timestamp index": 37,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7h8YwC3MGXouAV7u": {
+    "Timestamp index": 38,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hA1pi-ig8UIsKIp": {
+    "Timestamp index": 39,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hBVA6phKU3Yr3jc": {
+    "Timestamp index": 40,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hD42kvwPu6ZDNmY": {
+    "Timestamp index": 41,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hEbwtYGec9Z9OkX": {
+    "Timestamp index": 42,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hG6p8bG4f2cpvKj": {
+    "Timestamp index": 43,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hHZfI-DMmKVynCT": {
+    "Timestamp index": 44,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_settings",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hIu-GnCMF6cAGVN": {
+    "Timestamp index": 45,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hL1EQ-U7eg3rceo": {
+    "Timestamp index": 46,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hMWskZhGatkth0u": {
+    "Timestamp index": 47,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hNz913BJ7_cwerz": {
+    "Timestamp index": 48,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hPUMvwB-FyGP5lC": {
+    "Timestamp index": 49,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hQwKHQBkCmCobID": {
+    "Timestamp index": 50,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hSTDQxr3vw79nGy": {
+    "Timestamp index": 51,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hU0Xh7VZZ3cFXuR": {
+    "Timestamp index": 52,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hVRNfEoDId3699S": {
+    "Timestamp index": 53,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hWqwphvtDgtj_W3": {
+    "Timestamp index": 54,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hYJngS0gFJiJ0Cx": {
+    "Timestamp index": 55,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hZnqKZ-330DlgRG": {
+    "Timestamp index": 56,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7haJIwV1kV30o5_b": {
+    "Timestamp index": 57,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hbnI-shxRnfaItj": {
+    "Timestamp index": 58,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hdHLOyQ1Ykbzh3e": {
+    "Timestamp index": 59,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hep3NV8Rkd_TZxv": {
+    "Timestamp index": 60,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hgLHjEskGlou2uD": {
+    "Timestamp index": 61,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hhmxDFj1S93zeMW": {
+    "Timestamp index": 62,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hjKe2SZ_8abg2Ul": {
+    "Timestamp index": 63,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hkoVH0EiNSkdcaz": {
+    "Timestamp index": 64,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hm9ZfJdu4mJuPmz": {
+    "Timestamp index": 65,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hnfOmg8mHe-bktd": {
+    "Timestamp index": 66,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hpKWJgk3eGRTDd6": {
+    "Timestamp index": 67,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hqg5sMEVMu_a2x0": {
+    "Timestamp index": 68,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hsFv8nOxMhKCRhL": {
+    "Timestamp index": 69,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7htePgB7Sa4jdzq9": {
+    "Timestamp index": 70,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hvBPQhz4fNO93xe": {
+    "Timestamp index": 71,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hwkmDgj62M1Lbhk": {
+    "Timestamp index": 72,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hyCseUtyW1AE9d1": {
+    "Timestamp index": 73,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7hzfx6rwx8mXVFrM": {
+    "Timestamp index": 74,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7i06Si0MfZwuC-wj": {
+    "Timestamp index": 75,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7i2FW6aQa6bBmu9I": {
+    "Timestamp index": 76,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7i3nk8bxcFNv1BGR": {
+    "Timestamp index": 77,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7i5VG9G8yXJs9PV8": {
+    "Timestamp index": 78,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7i6vhdmstuj1-_pZ": {
+    "Timestamp index": 79,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7i8MLKk5Mt16vph2": {
+    "Timestamp index": 80,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7i9nUx1R4I7h4ajs": {
+    "Timestamp index": 81,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iBK-97j-h7C78tf": {
+    "Timestamp index": 82,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iCoVbYdRlKUxaa-": {
+    "Timestamp index": 83,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iEHvPTOPCOkPYF9": {
+    "Timestamp index": 84,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iFnOSTFY2GzBgJN": {
+    "Timestamp index": 85,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iHGF7ZGvgrAtK7V": {
+    "Timestamp index": 86,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iIkktCLe4fyGmAv": {
+    "Timestamp index": 87,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iKNQ365vfJBcVeC": {
+    "Timestamp index": 88,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iLpoxFLZ5FlwN5I": {
+    "Timestamp index": 89,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iNIJZ_aRSaeQrGB": {
+    "Timestamp index": 90,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iOmGDO8N7fQZ3Tl": {
+    "Timestamp index": 91,
+    "category": "mobile",
+    "country": "Germany",
+    "event_date": 20220123,
+    "event_name": "start_game",
+    "platform": "Android",
+    "user_id": "0010CF7718DC4C07A2A5DECC213EBE82"
+  },
+  "-OHi7iQE2briBmjXTihC": {
+    "Timestamp index": 1,
+    "category": "mobile",
+    "country": "Romania",
+    "event_date": 20220111,
+    "event_name": "first_open",
+    "platform": "Android",
+    "user_id": "001223A9593C490B89F769DF71871D21"
+  },
+  "-OHi7iRZo6tu0cHgFv_h": {
+    "Timestamp index": 2,
+    "category": "mobile",
+    "country": "Romania",
+    "event_date": 20220111,
+    "event_name": "open_game",
+    "platform": "Android",
+    "user_id": "001223A9593C490B89F769DF71871D21"
+  },
+  "-OHi7iSzWFP08g3if3u-": {
+    "Timestamp index": 3,
+    "category": "mobile",
+    "country": "Romania",
+    "event_date": 20220111,
+    "event_name": "game_mode",
+    "platform": "Android",
+    "user_id": "001223A9593C490B89F769DF71871D21"
+  },
+  "-NEW1": {
+    "Iteration_ID": 25,
+    "MAHZOR_ID": 59,
+    "Room_number": 3,
+    "Start_date": "2024-07-14 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW2": {
+    "Iteration_ID": 26,
+    "MAHZOR_ID": 60,
+    "Room_number": 3,
+    "Start_date": "2024-07-17 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW3": {
+    "Iteration_ID": 27,
+    "MAHZOR_ID": 61,
+    "Room_number": 3,
+    "Start_date": "2024-07-20 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW4": {
+    "Iteration_ID": 28,
+    "MAHZOR_ID": 62,
+    "Room_number": 5,
+    "Start_date": "2024-07-21 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW5": {
+    "Iteration_ID": 29,
+    "MAHZOR_ID": 63,
+    "Room_number": 4,
+    "Start_date": "2024-07-24 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW6": {
+    "Iteration_ID": 30,
+    "MAHZOR_ID": 64,
+    "Room_number": 3,
+    "Start_date": "2024-07-26 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW7": {
+    "Iteration_ID": 31,
+    "MAHZOR_ID": 65,
+    "Room_number": 3,
+    "Start_date": "2024-07-30 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW8": {
+    "Iteration_ID": 32,
+    "MAHZOR_ID": 66,
+    "Room_number": 5,
+    "Start_date": "2024-07-31 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW9": {
+    "Iteration_ID": 33,
+    "MAHZOR_ID": 67,
+    "Room_number": 5,
+    "Start_date": "2024-08-01 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW10": {
+    "Iteration_ID": 34,
+    "MAHZOR_ID": 68,
+    "Room_number": 4,
+    "Start_date": "2024-08-03 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW11": {
+    "Iteration_ID": 35,
+    "MAHZOR_ID": 69,
+    "Room_number": 3,
+    "Start_date": "2024-08-04 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW12": {
+    "Iteration_ID": 36,
+    "MAHZOR_ID": 70,
+    "Room_number": 3,
+    "Start_date": "2024-08-05 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW13": {
+    "Iteration_ID": 37,
+    "MAHZOR_ID": 71,
+    "Room_number": 5,
+    "Start_date": "2024-08-07 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW14": {
+    "Iteration_ID": 38,
+    "MAHZOR_ID": 72,
+    "Room_number": 4,
+    "Start_date": "2024-08-08 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW15": {
+    "Iteration_ID": 39,
+    "MAHZOR_ID": 73,
+    "Room_number": 3,
+    "Start_date": "2024-08-12 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW16": {
+    "Iteration_ID": 40,
+    "MAHZOR_ID": 74,
+    "Room_number": 5,
+    "Start_date": "2024-08-16 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW17": {
+    "Iteration_ID": 41,
+    "MAHZOR_ID": 75,
+    "Room_number": 5,
+    "Start_date": "2024-08-20 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW18": {
+    "Iteration_ID": 42,
+    "MAHZOR_ID": 76,
+    "Room_number": 5,
+    "Start_date": "2024-08-23 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW19": {
+    "Iteration_ID": 43,
+    "MAHZOR_ID": 77,
+    "Room_number": 3,
+    "Start_date": "2024-08-24 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW20": {
+    "Iteration_ID": 44,
+    "MAHZOR_ID": 78,
+    "Room_number": 4,
+    "Start_date": "2024-08-28 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW21": {
+    "Iteration_ID": 45,
+    "MAHZOR_ID": 79,
+    "Room_number": 5,
+    "Start_date": "2024-09-01 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW22": {
+    "Iteration_ID": 46,
+    "MAHZOR_ID": 80,
+    "Room_number": 5,
+    "Start_date": "2024-09-03 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW23": {
+    "Iteration_ID": 47,
+    "MAHZOR_ID": 81,
+    "Room_number": 3,
+    "Start_date": "2024-09-05 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW24": {
+    "Iteration_ID": 48,
+    "MAHZOR_ID": 82,
+    "Room_number": 4,
+    "Start_date": "2024-09-06 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW25": {
+    "Iteration_ID": 49,
+    "MAHZOR_ID": 83,
+    "Room_number": 5,
+    "Start_date": "2024-09-08 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW26": {
+    "Iteration_ID": 50,
+    "MAHZOR_ID": 84,
+    "Room_number": 3,
+    "Start_date": "2024-09-10 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW27": {
+    "Iteration_ID": 51,
+    "MAHZOR_ID": 85,
+    "Room_number": 5,
+    "Start_date": "2024-09-11 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW28": {
+    "Iteration_ID": 52,
+    "MAHZOR_ID": 86,
+    "Room_number": 3,
+    "Start_date": "2024-09-13 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW29": {
+    "Iteration_ID": 53,
+    "MAHZOR_ID": 87,
+    "Room_number": 5,
+    "Start_date": "2024-09-15 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW30": {
+    "Iteration_ID": 54,
+    "MAHZOR_ID": 88,
+    "Room_number": 3,
+    "Start_date": "2024-09-16 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW31": {
+    "Iteration_ID": 55,
+    "MAHZOR_ID": 89,
+    "Room_number": 4,
+    "Start_date": "2024-09-20 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW32": {
+    "Iteration_ID": 56,
+    "MAHZOR_ID": 90,
+    "Room_number": 4,
+    "Start_date": "2024-09-24 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW33": {
+    "Iteration_ID": 57,
+    "MAHZOR_ID": 91,
+    "Room_number": 5,
+    "Start_date": "2024-09-25 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW34": {
+    "Iteration_ID": 58,
+    "MAHZOR_ID": 92,
+    "Room_number": 5,
+    "Start_date": "2024-09-26 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW35": {
+    "Iteration_ID": 59,
+    "MAHZOR_ID": 93,
+    "Room_number": 5,
+    "Start_date": "2024-09-29 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW36": {
+    "Iteration_ID": 60,
+    "MAHZOR_ID": 94,
+    "Room_number": 4,
+    "Start_date": "2024-10-02 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW37": {
+    "Iteration_ID": 61,
+    "MAHZOR_ID": 95,
+    "Room_number": 3,
+    "Start_date": "2024-10-06 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW38": {
+    "Iteration_ID": 62,
+    "MAHZOR_ID": 96,
+    "Room_number": 3,
+    "Start_date": "2024-10-08 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW39": {
+    "Iteration_ID": 63,
+    "MAHZOR_ID": 97,
+    "Room_number": 3,
+    "Start_date": "2024-10-09 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW40": {
+    "Iteration_ID": 64,
+    "MAHZOR_ID": 98,
+    "Room_number": 3,
+    "Start_date": "2024-10-11 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW41": {
+    "Iteration_ID": 65,
+    "MAHZOR_ID": 99,
+    "Room_number": 5,
+    "Start_date": "2024-10-13 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW42": {
+    "Iteration_ID": 66,
+    "MAHZOR_ID": 100,
+    "Room_number": 5,
+    "Start_date": "2024-10-17 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW43": {
+    "Iteration_ID": 67,
+    "MAHZOR_ID": 101,
+    "Room_number": 4,
+    "Start_date": "2024-10-20 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW44": {
+    "Iteration_ID": 68,
+    "MAHZOR_ID": 102,
+    "Room_number": 4,
+    "Start_date": "2024-10-22 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW45": {
+    "Iteration_ID": 69,
+    "MAHZOR_ID": 103,
+    "Room_number": 4,
+    "Start_date": "2024-10-25 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW46": {
+    "Iteration_ID": 70,
+    "MAHZOR_ID": 104,
+    "Room_number": 4,
+    "Start_date": "2024-10-29 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW47": {
+    "Iteration_ID": 71,
+    "MAHZOR_ID": 105,
+    "Room_number": 4,
+    "Start_date": "2024-10-31 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW48": {
+    "Iteration_ID": 72,
+    "MAHZOR_ID": 106,
+    "Room_number": 5,
+    "Start_date": "2024-11-02 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW49": {
+    "Iteration_ID": 73,
+    "MAHZOR_ID": 107,
+    "Room_number": 5,
+    "Start_date": "2024-11-04 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW50": {
+    "Iteration_ID": 74,
+    "MAHZOR_ID": 108,
+    "Room_number": 3,
+    "Start_date": "2024-11-08 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW51": {
+    "Iteration_ID": 75,
+    "MAHZOR_ID": 109,
+    "Room_number": 4,
+    "Start_date": "2024-11-09 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW52": {
+    "Iteration_ID": 76,
+    "MAHZOR_ID": 110,
+    "Room_number": 5,
+    "Start_date": "2024-11-11 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW53": {
+    "Iteration_ID": 77,
+    "MAHZOR_ID": 111,
+    "Room_number": 3,
+    "Start_date": "2024-11-14 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW54": {
+    "Iteration_ID": 78,
+    "MAHZOR_ID": 112,
+    "Room_number": 4,
+    "Start_date": "2024-11-18 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW55": {
+    "Iteration_ID": 79,
+    "MAHZOR_ID": 113,
+    "Room_number": 5,
+    "Start_date": "2024-11-22 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW56": {
+    "Iteration_ID": 80,
+    "MAHZOR_ID": 114,
+    "Room_number": 3,
+    "Start_date": "2024-11-23 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW57": {
+    "Iteration_ID": 81,
+    "MAHZOR_ID": 115,
+    "Room_number": 4,
+    "Start_date": "2024-11-26 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW58": {
+    "Iteration_ID": 82,
+    "MAHZOR_ID": 116,
+    "Room_number": 4,
+    "Start_date": "2024-11-27 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW59": {
+    "Iteration_ID": 83,
+    "MAHZOR_ID": 117,
+    "Room_number": 4,
+    "Start_date": "2024-11-29 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW60": {
+    "Iteration_ID": 84,
+    "MAHZOR_ID": 118,
+    "Room_number": 5,
+    "Start_date": "2024-12-02 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW61": {
+    "Iteration_ID": 85,
+    "MAHZOR_ID": 119,
+    "Room_number": 4,
+    "Start_date": "2024-12-05 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW62": {
+    "Iteration_ID": 86,
+    "MAHZOR_ID": 120,
+    "Room_number": 4,
+    "Start_date": "2024-12-06 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW63": {
+    "Iteration_ID": 87,
+    "MAHZOR_ID": 121,
+    "Room_number": 3,
+    "Start_date": "2024-12-07 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW64": {
+    "Iteration_ID": 88,
+    "MAHZOR_ID": 122,
+    "Room_number": 3,
+    "Start_date": "2024-12-09 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW65": {
+    "Iteration_ID": 89,
+    "MAHZOR_ID": 123,
+    "Room_number": 5,
+    "Start_date": "2024-12-11 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW66": {
+    "Iteration_ID": 90,
+    "MAHZOR_ID": 124,
+    "Room_number": 4,
+    "Start_date": "2024-12-13 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW67": {
+    "Iteration_ID": 91,
+    "MAHZOR_ID": 125,
+    "Room_number": 5,
+    "Start_date": "2024-12-16 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW68": {
+    "Iteration_ID": 92,
+    "MAHZOR_ID": 126,
+    "Room_number": 5,
+    "Start_date": "2024-12-19 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW69": {
+    "Iteration_ID": 93,
+    "MAHZOR_ID": 127,
+    "Room_number": 4,
+    "Start_date": "2024-12-21 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW70": {
+    "Iteration_ID": 94,
+    "MAHZOR_ID": 128,
+    "Room_number": 4,
+    "Start_date": "2024-12-24 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW71": {
+    "Iteration_ID": 95,
+    "MAHZOR_ID": 129,
+    "Room_number": 4,
+    "Start_date": "2024-12-25 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW72": {
+    "Iteration_ID": 96,
+    "MAHZOR_ID": 130,
+    "Room_number": 5,
+    "Start_date": "2024-12-26 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW73": {
+    "Iteration_ID": 97,
+    "MAHZOR_ID": 131,
+    "Room_number": 3,
+    "Start_date": "2024-12-29 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW74": {
+    "Iteration_ID": 98,
+    "MAHZOR_ID": 132,
+    "Room_number": 4,
+    "Start_date": "2024-12-30 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW75": {
+    "Iteration_ID": 99,
+    "MAHZOR_ID": 133,
+    "Room_number": 5,
+    "Start_date": "2025-01-03 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW76": {
+    "Iteration_ID": 100,
+    "MAHZOR_ID": 134,
+    "Room_number": 4,
+    "Start_date": "2025-01-07 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW77": {
+    "Iteration_ID": 101,
+    "MAHZOR_ID": 135,
+    "Room_number": 3,
+    "Start_date": "2025-01-09 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW78": {
+    "Iteration_ID": 102,
+    "MAHZOR_ID": 136,
+    "Room_number": 5,
+    "Start_date": "2025-01-11 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW79": {
+    "Iteration_ID": 103,
+    "MAHZOR_ID": 137,
+    "Room_number": 3,
+    "Start_date": "2025-01-13 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW80": {
+    "Iteration_ID": 104,
+    "MAHZOR_ID": 138,
+    "Room_number": 5,
+    "Start_date": "2025-01-16 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW81": {
+    "Iteration_ID": 105,
+    "MAHZOR_ID": 139,
+    "Room_number": 5,
+    "Start_date": "2025-01-18 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW82": {
+    "Iteration_ID": 106,
+    "MAHZOR_ID": 140,
+    "Room_number": 3,
+    "Start_date": "2025-01-19 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW83": {
+    "Iteration_ID": 107,
+    "MAHZOR_ID": 141,
+    "Room_number": 5,
+    "Start_date": "2025-01-22 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW84": {
+    "Iteration_ID": 108,
+    "MAHZOR_ID": 142,
+    "Room_number": 3,
+    "Start_date": "2025-01-24 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW85": {
+    "Iteration_ID": 109,
+    "MAHZOR_ID": 143,
+    "Room_number": 3,
+    "Start_date": "2025-01-27 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW86": {
+    "Iteration_ID": 110,
+    "MAHZOR_ID": 144,
+    "Room_number": 5,
+    "Start_date": "2025-01-31 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW87": {
+    "Iteration_ID": 111,
+    "MAHZOR_ID": 145,
+    "Room_number": 3,
+    "Start_date": "2025-02-04 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW88": {
+    "Iteration_ID": 112,
+    "MAHZOR_ID": 146,
+    "Room_number": 5,
+    "Start_date": "2025-02-07 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW89": {
+    "Iteration_ID": 113,
+    "MAHZOR_ID": 147,
+    "Room_number": 5,
+    "Start_date": "2025-02-09 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW90": {
+    "Iteration_ID": 114,
+    "MAHZOR_ID": 148,
+    "Room_number": 4,
+    "Start_date": "2025-02-13 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW91": {
+    "Iteration_ID": 115,
+    "MAHZOR_ID": 149,
+    "Room_number": 4,
+    "Start_date": "2025-02-14 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW92": {
+    "Iteration_ID": 116,
+    "MAHZOR_ID": 150,
+    "Room_number": 4,
+    "Start_date": "2025-02-16 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW93": {
+    "Iteration_ID": 117,
+    "MAHZOR_ID": 151,
+    "Room_number": 5,
+    "Start_date": "2025-02-19 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW94": {
+    "Iteration_ID": 118,
+    "MAHZOR_ID": 152,
+    "Room_number": 4,
+    "Start_date": "2025-02-22 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW95": {
+    "Iteration_ID": 119,
+    "MAHZOR_ID": 153,
+    "Room_number": 5,
+    "Start_date": "2025-02-26 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW96": {
+    "Iteration_ID": 120,
+    "MAHZOR_ID": 154,
+    "Room_number": 4,
+    "Start_date": "2025-02-28 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW97": {
+    "Iteration_ID": 121,
+    "MAHZOR_ID": 155,
+    "Room_number": 4,
+    "Start_date": "2025-03-03 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW98": {
+    "Iteration_ID": 122,
+    "MAHZOR_ID": 156,
+    "Room_number": 4,
+    "Start_date": "2025-03-07 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW99": {
+    "Iteration_ID": 123,
+    "MAHZOR_ID": 157,
+    "Room_number": 5,
+    "Start_date": "2025-03-08 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW100": {
+    "Iteration_ID": 124,
+    "MAHZOR_ID": 158,
+    "Room_number": 3,
+    "Start_date": "2025-03-10 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW101": {
+    "Iteration_ID": 125,
+    "MAHZOR_ID": 159,
+    "Room_number": 5,
+    "Start_date": "2025-03-11 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW102": {
+    "Iteration_ID": 126,
+    "MAHZOR_ID": 160,
+    "Room_number": 4,
+    "Start_date": "2025-03-15 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW103": {
+    "Iteration_ID": 127,
+    "MAHZOR_ID": 161,
+    "Room_number": 3,
+    "Start_date": "2025-03-17 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW104": {
+    "Iteration_ID": 128,
+    "MAHZOR_ID": 162,
+    "Room_number": 4,
+    "Start_date": "2025-03-19 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW105": {
+    "Iteration_ID": 129,
+    "MAHZOR_ID": 163,
+    "Room_number": 5,
+    "Start_date": "2025-03-21 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW106": {
+    "Iteration_ID": 130,
+    "MAHZOR_ID": 164,
+    "Room_number": 4,
+    "Start_date": "2025-03-24 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW107": {
+    "Iteration_ID": 131,
+    "MAHZOR_ID": 165,
+    "Room_number": 4,
+    "Start_date": "2025-03-27 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW108": {
+    "Iteration_ID": 132,
+    "MAHZOR_ID": 166,
+    "Room_number": 4,
+    "Start_date": "2025-03-28 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW109": {
+    "Iteration_ID": 133,
+    "MAHZOR_ID": 167,
+    "Room_number": 4,
+    "Start_date": "2025-03-29 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW110": {
+    "Iteration_ID": 134,
+    "MAHZOR_ID": 168,
+    "Room_number": 5,
+    "Start_date": "2025-03-30 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW111": {
+    "Iteration_ID": 135,
+    "MAHZOR_ID": 169,
+    "Room_number": 4,
+    "Start_date": "2025-03-31 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW112": {
+    "Iteration_ID": 136,
+    "MAHZOR_ID": 170,
+    "Room_number": 4,
+    "Start_date": "2025-04-04 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW113": {
+    "Iteration_ID": 137,
+    "MAHZOR_ID": 171,
+    "Room_number": 3,
+    "Start_date": "2025-04-07 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW114": {
+    "Iteration_ID": 138,
+    "MAHZOR_ID": 172,
+    "Room_number": 5,
+    "Start_date": "2025-04-11 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW115": {
+    "Iteration_ID": 139,
+    "MAHZOR_ID": 173,
+    "Room_number": 5,
+    "Start_date": "2025-04-13 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW116": {
+    "Iteration_ID": 140,
+    "MAHZOR_ID": 174,
+    "Room_number": 4,
+    "Start_date": "2025-04-14 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW117": {
+    "Iteration_ID": 141,
+    "MAHZOR_ID": 175,
+    "Room_number": 4,
+    "Start_date": "2025-04-17 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW118": {
+    "Iteration_ID": 142,
+    "MAHZOR_ID": 176,
+    "Room_number": 4,
+    "Start_date": "2025-04-18 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW119": {
+    "Iteration_ID": 143,
+    "MAHZOR_ID": 177,
+    "Room_number": 5,
+    "Start_date": "2025-04-22 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW120": {
+    "Iteration_ID": 144,
+    "MAHZOR_ID": 178,
+    "Room_number": 3,
+    "Start_date": "2025-04-26 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW121": {
+    "Iteration_ID": 145,
+    "MAHZOR_ID": 179,
+    "Room_number": 4,
+    "Start_date": "2025-04-29 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW122": {
+    "Iteration_ID": 146,
+    "MAHZOR_ID": 180,
+    "Room_number": 3,
+    "Start_date": "2025-05-03 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW123": {
+    "Iteration_ID": 147,
+    "MAHZOR_ID": 181,
+    "Room_number": 3,
+    "Start_date": "2025-05-07 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW124": {
+    "Iteration_ID": 148,
+    "MAHZOR_ID": 182,
+    "Room_number": 4,
+    "Start_date": "2025-05-11 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW125": {
+    "Iteration_ID": 149,
+    "MAHZOR_ID": 183,
+    "Room_number": 5,
+    "Start_date": "2025-05-15 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW126": {
+    "Iteration_ID": 150,
+    "MAHZOR_ID": 184,
+    "Room_number": 4,
+    "Start_date": "2025-05-16 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW127": {
+    "Iteration_ID": 151,
+    "MAHZOR_ID": 185,
+    "Room_number": 5,
+    "Start_date": "2025-05-19 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW128": {
+    "Iteration_ID": 152,
+    "MAHZOR_ID": 186,
+    "Room_number": 5,
+    "Start_date": "2025-05-22 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW129": {
+    "Iteration_ID": 153,
+    "MAHZOR_ID": 187,
+    "Room_number": 4,
+    "Start_date": "2025-05-25 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW130": {
+    "Iteration_ID": 154,
+    "MAHZOR_ID": 188,
+    "Room_number": 4,
+    "Start_date": "2025-05-28 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW131": {
+    "Iteration_ID": 155,
+    "MAHZOR_ID": 189,
+    "Room_number": 3,
+    "Start_date": "2025-05-31 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW132": {
+    "Iteration_ID": 156,
+    "MAHZOR_ID": 190,
+    "Room_number": 3,
+    "Start_date": "2025-06-01 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW133": {
+    "Iteration_ID": 157,
+    "MAHZOR_ID": 191,
+    "Room_number": 5,
+    "Start_date": "2025-06-05 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW134": {
+    "Iteration_ID": 158,
+    "MAHZOR_ID": 192,
+    "Room_number": 3,
+    "Start_date": "2025-06-06 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW135": {
+    "Iteration_ID": 159,
+    "MAHZOR_ID": 193,
+    "Room_number": 4,
+    "Start_date": "2025-06-10 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW136": {
+    "Iteration_ID": 160,
+    "MAHZOR_ID": 194,
+    "Room_number": 4,
+    "Start_date": "2025-06-12 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW137": {
+    "Iteration_ID": 161,
+    "MAHZOR_ID": 195,
+    "Room_number": 3,
+    "Start_date": "2025-06-16 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW138": {
+    "Iteration_ID": 162,
+    "MAHZOR_ID": 196,
+    "Room_number": 4,
+    "Start_date": "2025-06-19 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW139": {
+    "Iteration_ID": 163,
+    "MAHZOR_ID": 197,
+    "Room_number": 3,
+    "Start_date": "2025-06-23 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW140": {
+    "Iteration_ID": 164,
+    "MAHZOR_ID": 198,
+    "Room_number": 3,
+    "Start_date": "2025-06-25 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW141": {
+    "Iteration_ID": 165,
+    "MAHZOR_ID": 199,
+    "Room_number": 4,
+    "Start_date": "2025-06-28 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW142": {
+    "Iteration_ID": 166,
+    "MAHZOR_ID": 200,
+    "Room_number": 5,
+    "Start_date": "2025-06-29 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW143": {
+    "Iteration_ID": 167,
+    "MAHZOR_ID": 201,
+    "Room_number": 5,
+    "Start_date": "2025-06-30 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW144": {
+    "Iteration_ID": 168,
+    "MAHZOR_ID": 202,
+    "Room_number": 5,
+    "Start_date": "2025-07-02 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW145": {
+    "Iteration_ID": 169,
+    "MAHZOR_ID": 203,
+    "Room_number": 5,
+    "Start_date": "2025-07-03 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW146": {
+    "Iteration_ID": 170,
+    "MAHZOR_ID": 204,
+    "Room_number": 4,
+    "Start_date": "2025-07-06 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW147": {
+    "Iteration_ID": 171,
+    "MAHZOR_ID": 205,
+    "Room_number": 4,
+    "Start_date": "2025-07-09 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW148": {
+    "Iteration_ID": 172,
+    "MAHZOR_ID": 206,
+    "Room_number": 5,
+    "Start_date": "2025-07-12 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW149": {
+    "Iteration_ID": 173,
+    "MAHZOR_ID": 207,
+    "Room_number": 3,
+    "Start_date": "2025-07-14 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW150": {
+    "Iteration_ID": 174,
+    "MAHZOR_ID": 208,
+    "Room_number": 3,
+    "Start_date": "2025-07-15 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW151": {
+    "Iteration_ID": 175,
+    "MAHZOR_ID": 209,
+    "Room_number": 3,
+    "Start_date": "2025-07-19 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW152": {
+    "Iteration_ID": 176,
+    "MAHZOR_ID": 210,
+    "Room_number": 4,
+    "Start_date": "2025-07-23 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW153": {
+    "Iteration_ID": 177,
+    "MAHZOR_ID": 211,
+    "Room_number": 4,
+    "Start_date": "2025-07-26 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW154": {
+    "Iteration_ID": 178,
+    "MAHZOR_ID": 212,
+    "Room_number": 4,
+    "Start_date": "2025-07-30 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW155": {
+    "Iteration_ID": 179,
+    "MAHZOR_ID": 213,
+    "Room_number": 3,
+    "Start_date": "2025-07-31 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW156": {
+    "Iteration_ID": 180,
+    "MAHZOR_ID": 214,
+    "Room_number": 4,
+    "Start_date": "2025-08-04 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW157": {
+    "Iteration_ID": 181,
+    "MAHZOR_ID": 215,
+    "Room_number": 4,
+    "Start_date": "2025-08-07 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW158": {
+    "Iteration_ID": 182,
+    "MAHZOR_ID": 216,
+    "Room_number": 4,
+    "Start_date": "2025-08-08 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW159": {
+    "Iteration_ID": 183,
+    "MAHZOR_ID": 217,
+    "Room_number": 5,
+    "Start_date": "2025-08-09 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW160": {
+    "Iteration_ID": 184,
+    "MAHZOR_ID": 218,
+    "Room_number": 4,
+    "Start_date": "2025-08-12 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW161": {
+    "Iteration_ID": 185,
+    "MAHZOR_ID": 219,
+    "Room_number": 4,
+    "Start_date": "2025-08-14 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW162": {
+    "Iteration_ID": 186,
+    "MAHZOR_ID": 220,
+    "Room_number": 3,
+    "Start_date": "2025-08-15 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW163": {
+    "Iteration_ID": 187,
+    "MAHZOR_ID": 221,
+    "Room_number": 3,
+    "Start_date": "2025-08-16 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW164": {
+    "Iteration_ID": 188,
+    "MAHZOR_ID": 222,
+    "Room_number": 3,
+    "Start_date": "2025-08-17 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW165": {
+    "Iteration_ID": 189,
+    "MAHZOR_ID": 223,
+    "Room_number": 5,
+    "Start_date": "2025-08-19 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW166": {
+    "Iteration_ID": 190,
+    "MAHZOR_ID": 224,
+    "Room_number": 5,
+    "Start_date": "2025-08-21 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW167": {
+    "Iteration_ID": 191,
+    "MAHZOR_ID": 225,
+    "Room_number": 5,
+    "Start_date": "2025-08-24 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW168": {
+    "Iteration_ID": 192,
+    "MAHZOR_ID": 226,
+    "Room_number": 3,
+    "Start_date": "2025-08-26 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW169": {
+    "Iteration_ID": 193,
+    "MAHZOR_ID": 227,
+    "Room_number": 4,
+    "Start_date": "2025-08-30 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW170": {
+    "Iteration_ID": 194,
+    "MAHZOR_ID": 228,
+    "Room_number": 5,
+    "Start_date": "2025-08-31 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW171": {
+    "Iteration_ID": 195,
+    "MAHZOR_ID": 229,
+    "Room_number": 5,
+    "Start_date": "2025-09-04 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW172": {
+    "Iteration_ID": 196,
+    "MAHZOR_ID": 230,
+    "Room_number": 3,
+    "Start_date": "2025-09-07 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW173": {
+    "Iteration_ID": 197,
+    "MAHZOR_ID": 231,
+    "Room_number": 3,
+    "Start_date": "2025-09-09 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW174": {
+    "Iteration_ID": 198,
+    "MAHZOR_ID": 232,
+    "Room_number": 4,
+    "Start_date": "2025-09-11 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW175": {
+    "Iteration_ID": 199,
+    "MAHZOR_ID": 233,
+    "Room_number": 5,
+    "Start_date": "2025-09-13 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW176": {
+    "Iteration_ID": 200,
+    "MAHZOR_ID": 234,
+    "Room_number": 5,
+    "Start_date": "2025-09-14 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW177": {
+    "Iteration_ID": 201,
+    "MAHZOR_ID": 235,
+    "Room_number": 5,
+    "Start_date": "2025-09-16 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW178": {
+    "Iteration_ID": 202,
+    "MAHZOR_ID": 236,
+    "Room_number": 5,
+    "Start_date": "2025-09-18 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW179": {
+    "Iteration_ID": 203,
+    "MAHZOR_ID": 237,
+    "Room_number": 5,
+    "Start_date": "2025-09-20 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW180": {
+    "Iteration_ID": 204,
+    "MAHZOR_ID": 238,
+    "Room_number": 4,
+    "Start_date": "2025-09-22 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW181": {
+    "Iteration_ID": 205,
+    "MAHZOR_ID": 239,
+    "Room_number": 4,
+    "Start_date": "2025-09-25 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW182": {
+    "Iteration_ID": 206,
+    "MAHZOR_ID": 240,
+    "Room_number": 5,
+    "Start_date": "2025-09-26 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW183": {
+    "Iteration_ID": 207,
+    "MAHZOR_ID": 241,
+    "Room_number": 5,
+    "Start_date": "2025-09-29 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW184": {
+    "Iteration_ID": 208,
+    "MAHZOR_ID": 242,
+    "Room_number": 3,
+    "Start_date": "2025-09-30 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW185": {
+    "Iteration_ID": 209,
+    "MAHZOR_ID": 243,
+    "Room_number": 5,
+    "Start_date": "2025-10-04 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW186": {
+    "Iteration_ID": 210,
+    "MAHZOR_ID": 244,
+    "Room_number": 5,
+    "Start_date": "2025-10-07 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW187": {
+    "Iteration_ID": 211,
+    "MAHZOR_ID": 245,
+    "Room_number": 4,
+    "Start_date": "2025-10-08 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW188": {
+    "Iteration_ID": 212,
+    "MAHZOR_ID": 246,
+    "Room_number": 5,
+    "Start_date": "2025-10-11 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW189": {
+    "Iteration_ID": 213,
+    "MAHZOR_ID": 247,
+    "Room_number": 3,
+    "Start_date": "2025-10-12 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW190": {
+    "Iteration_ID": 214,
+    "MAHZOR_ID": 248,
+    "Room_number": 5,
+    "Start_date": "2025-10-16 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW191": {
+    "Iteration_ID": 215,
+    "MAHZOR_ID": 249,
+    "Room_number": 5,
+    "Start_date": "2025-10-20 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW192": {
+    "Iteration_ID": 216,
+    "MAHZOR_ID": 250,
+    "Room_number": 4,
+    "Start_date": "2025-10-22 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW193": {
+    "Iteration_ID": 217,
+    "MAHZOR_ID": 251,
+    "Room_number": 5,
+    "Start_date": "2025-10-25 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW194": {
+    "Iteration_ID": 218,
+    "MAHZOR_ID": 252,
+    "Room_number": 3,
+    "Start_date": "2025-10-26 00:00:00",
+    "Substrate": 237.5,
+    "mushroom_type": 1
+  },
+  "-NEW195": {
+    "Iteration_ID": 219,
+    "MAHZOR_ID": 253,
+    "Room_number": 5,
+    "Start_date": "2025-10-30 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW196": {
+    "Iteration_ID": 220,
+    "MAHZOR_ID": 254,
+    "Room_number": 3,
+    "Start_date": "2025-10-31 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW197": {
+    "Iteration_ID": 221,
+    "MAHZOR_ID": 255,
+    "Room_number": 3,
+    "Start_date": "2025-11-02 00:00:00",
+    "Substrate": 80.0,
+    "mushroom_type": 1
+  },
+  "-NEW198": {
+    "Iteration_ID": 222,
+    "MAHZOR_ID": 256,
+    "Room_number": 3,
+    "Start_date": "2025-11-06 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  },
+  "-NEW199": {
+    "Iteration_ID": 223,
+    "MAHZOR_ID": 257,
+    "Room_number": 5,
+    "Start_date": "2025-11-10 00:00:00",
+    "Substrate": 160.0,
+    "mushroom_type": 1
+  },
+  "-NEW200": {
+    "Iteration_ID": 224,
+    "MAHZOR_ID": 258,
+    "Room_number": 3,
+    "Start_date": "2025-11-12 00:00:00",
+    "Substrate": 240.0,
+    "mushroom_type": 1
+  }
+}
